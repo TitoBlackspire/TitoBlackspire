@@ -22,5 +22,5 @@ my personal initiative focused on privacy, automation, and hardware + software e
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://emojis.slackmojis.com/emojis/images/1643514939/9611/linux.png?1643514939" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://emojis.slackmojis.com/emojis/images/1643514044/32/python.png?1643514044" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://emojis.slackmojis.com/emojis/images/1643515002/10314/c-plus-plus-logo.png?1643515002" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://emojis.slackmojis.com/emojis/images/1643514069/257/github.png?1643514069" />
+
 
